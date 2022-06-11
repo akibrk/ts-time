@@ -1,6 +1,6 @@
 {
   "name": "@akibrk/time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Time utilities",
   "main": "dist/index.js",
   "bin": "dist/index.js",
@@ -36,9 +36,7 @@
   },
   "homepage": "https://github.com/akibrk/ts-time#readme",
   "license": "MIT",
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^26.0.23",
     "jest": "^26.6.3",
