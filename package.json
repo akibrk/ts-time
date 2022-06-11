@@ -14,8 +14,10 @@
     "prepublish": "npm run test && npm run build"
   },
   "keywords": [
-    "currency",
-    "formatting"
+    "time",
+    "formatting",
+    "duration",
+    "date"
   ],
   "author": {
     "name": "Akib Khan",
