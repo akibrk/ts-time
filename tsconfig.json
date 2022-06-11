@@ -23,7 +23,6 @@
     "experimentalDecorators": true
   },
   "exclude": [
-    "dist",
-    "node_modules"
+    "dist"
   ]
 }

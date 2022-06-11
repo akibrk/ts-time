@@ -2,7 +2,7 @@
   "name": "@akibrk/time",
   "version": "1.0.0",
   "description": "Time utilities",
-  "main": "index.ts",
+  "main": "dist/index.js",
   "bin": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
